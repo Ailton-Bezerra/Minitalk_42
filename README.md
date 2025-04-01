@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/minitalkm.png" alt="gnl 42 project badge"/>
 <p align="center">
-<p align="center">
-  <strong>125/100</strong> 🌟
-</p>
+$${\color{lightgreen}125/100}$$ 🌟
 
 ## Description
 `Minitalk` is a simple client-server messaging system using UNIX signals.
